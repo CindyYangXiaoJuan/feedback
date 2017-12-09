@@ -26,3 +26,14 @@
 在服务端提供表单校验的post方法
 ```
 ##提交到 GitHub
+```
+1. 在GitHub中创建一个远程仓库
+2. git remote add origin 仓库地址
+3. git push origin master
+```
+## 开发
+```shell
+npminstall
+app.js
+
+```
